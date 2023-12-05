@@ -1,0 +1,21 @@
+
+Customer ID: 23
+Name: ALDI
+Age: 30
+Mobile Number: 08957776878887
+Address: DEPOK
+Gender: MALE
+
+Customer ID: 1001
+Name: RAFI
+Age: 20
+Mobile Number: 08989888877776
+Address: komplek_Harapan_no_17
+Gender: male
+
+Customer ID: 1001
+Name: RAFI
+Age: 21
+Mobile Number: 089898888888
+Address: komplek_Harapan_no_17
+Gender: male
